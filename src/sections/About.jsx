@@ -25,9 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Tushar</p>
               <p className="grid-subtext">
-                With  years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
-                and responsive websites.
-              </p>
+I'm a Frontend Development enthusiast with a passion for bringing websites to life.              </p>
             </div>
           </div>
         </div>
